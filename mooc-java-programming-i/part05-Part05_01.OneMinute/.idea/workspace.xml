@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac70b68f-4012-4589-a3be-be58892a197a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_21.NumberOfStrings/src/main/java/NumberOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_21.NumberOfStrings/src/main/java/NumberOfStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/src/main/java/PrintingAFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_24.PrintingAFile/src/main/java/PrintingAFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/src/main/java/PrintingASpecifiedFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_25.PrintingASpecifiedFile/src/main/java/PrintingASpecifiedFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_26.GuestListFromAFile/src/main/java/GuestListFromAFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_26.GuestListFromAFile/src/main/java/GuestListFromAFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/src/main/java/IsItInTheFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_27.IsItInTheFile/src/main/java/IsItInTheFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_28.NumbersFromAFile/src/main/java/NumbersFromAFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_28.NumbersFromAFile/src/main/java/NumbersFromAFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_29.RecordsFromAFile/src/main/java/RecordsFromAFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_29.RecordsFromAFile/src/main/java/RecordsFromAFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/src/main/java/StoringRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_30.StoringRecords/src/main/java/StoringRecords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/src/main/java/SportStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part04-Part04_31.SportStatistics/src/main/java/SportStatistics.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2WhjM64IEE67Sg3YtJ978D0C7Yf" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac70b68f-4012-4589-a3be-be58892a197a" name="Changes" comment="" />
+      <created>1697191654597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697191654597</updated>
+      <workItem from="1697191657632" duration="1810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
